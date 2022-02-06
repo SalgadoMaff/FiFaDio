@@ -1,0 +1,15 @@
+/home/salgadomaff/Documentos/dev/FiFaDio/obj/Debug/net6.0/FiFaDio.csproj.AssemblyReference.cache
+/home/salgadomaff/Documentos/dev/FiFaDio/obj/Debug/net6.0/FiFaDio.GeneratedMSBuildEditorConfig.editorconfig
+/home/salgadomaff/Documentos/dev/FiFaDio/obj/Debug/net6.0/FiFaDio.AssemblyInfoInputs.cache
+/home/salgadomaff/Documentos/dev/FiFaDio/obj/Debug/net6.0/FiFaDio.AssemblyInfo.cs
+/home/salgadomaff/Documentos/dev/FiFaDio/obj/Debug/net6.0/FiFaDio.csproj.CoreCompileInputs.cache
+/home/salgadomaff/Documentos/dev/FiFaDio/bin/Debug/net6.0/FiFaDio
+/home/salgadomaff/Documentos/dev/FiFaDio/bin/Debug/net6.0/FiFaDio.deps.json
+/home/salgadomaff/Documentos/dev/FiFaDio/bin/Debug/net6.0/FiFaDio.runtimeconfig.json
+/home/salgadomaff/Documentos/dev/FiFaDio/bin/Debug/net6.0/FiFaDio.dll
+/home/salgadomaff/Documentos/dev/FiFaDio/bin/Debug/net6.0/ref/FiFaDio.dll
+/home/salgadomaff/Documentos/dev/FiFaDio/bin/Debug/net6.0/FiFaDio.pdb
+/home/salgadomaff/Documentos/dev/FiFaDio/obj/Debug/net6.0/FiFaDio.dll
+/home/salgadomaff/Documentos/dev/FiFaDio/obj/Debug/net6.0/ref/FiFaDio.dll
+/home/salgadomaff/Documentos/dev/FiFaDio/obj/Debug/net6.0/FiFaDio.pdb
+/home/salgadomaff/Documentos/dev/FiFaDio/obj/Debug/net6.0/FiFaDio.genruntimeconfig.cache
